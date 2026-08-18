@@ -100,4 +100,14 @@ La página también utiliza una estructura responsive para adaptarse a diferente
 ---
 
 ## 📚 Estructura del proyecto
-
+proyecto_videojuegos
+│
+├── index.html
+│
+└── img
+    ├── minecraft.jpg
+    ├── freefire.jpg
+    ├── mobilelegends.jpg
+    ├── roblox.jpg
+    ├── gta.jpg
+    └── honorofkings.jpg
