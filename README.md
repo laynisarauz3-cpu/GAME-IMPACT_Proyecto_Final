@@ -97,16 +97,3 @@ El diseño utiliza una estética inspirada en el mundo gamer, utilizando colores
 
 La página también utiliza una estructura responsive para adaptarse a diferentes tamaños de pantalla.
 
----
-
-## 📚 Estructura del proyecto
-#### proyecto_videojuegos
-- index.html
-#### img
-    - minecraft.jpg
-    - freefire.jpg
-    - mobilelegends.jpg
-    - roblox.jpg
-    - gta.jpg
-    - honorofkings.jpg
-    
